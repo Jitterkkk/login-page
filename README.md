@@ -1,4 +1,4 @@
-# 💜 Login Page - Sistema JIT
+# Login Page - Sistema JIT
 
 ## 📖 Sobre o Projeto
 Este repositório contém uma interface de login desenvolvida como um exercício rápido e prático. A ideia surgiu ao encontrar uma questão/desafio no LinkedIn, e decidi colocar a mão na massa para responder criando o layout do zero. 
